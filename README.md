@@ -23,7 +23,7 @@ Neste primeiro momento, o projeto deve ser executado através do Google Colab ou
 
 ## Demo
 Link para um vídeo de uma criança contando história: https://drive.google.com/file/d/1hBzLiEbNGiBY5rP56hf2jZOFiHe-dRZM/view?usp=drive_link
-Link para o resultado do processamento: 
+Link para o resultado do processamento: https://github.com/Evandro15/Alura_Kid_4_kids/blob/3342d4791d6362303f1035c39470134c0c4ca9ad/ReviewLer_2024-05-11_22-15-25.html
 
 ### Próximos Passos
 - Implementar uma API para permitir o upload do arquivo e a geração por meio do site na plataforma Heroku.
