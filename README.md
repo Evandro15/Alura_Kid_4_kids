@@ -1,6 +1,6 @@
 # Projeto de Contação de Histórias para Crianças
 
-Este projeto tem como objetivo incentivar a contação de histórias para crianças, permitindo que elas gravem vídeos de suas próprias histórias, que serão aprimoradas e publicadas. Além disso, o projeto inclui a recomendação de livros e a comparação entre a história autoral e obras recomendadas, visando estimular a criatividade e promover o gosto pela leitura.
+Este projeto tem como objetivo incentivar a contação de histórias "por crianças para crianças", permitindo que elas gravem vídeos de suas próprias histórias, que serão aprimoradas e publicadas. Além disso, o projeto inclui a recomendação de livros (dentro de um universo curto, de experimentação) e a comparação entre a história autoral e obras recomendadas, visando estimular a criatividade e promover o gosto pela leitura e criação.
 
 Link para execução direto do google colab: https://drive.google.com/file/d/1BLhdmbv6p28D6rb18-EIMMj0YakLxMS7/view?usp=sharing
 ## Como Subir um vídeo: 
