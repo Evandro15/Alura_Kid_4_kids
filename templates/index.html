@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload de Vídeo</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Envie seu Vídeo</h1>
+    <h2>Por favor use um vídeo de até 200mb, este site está hospedado para testes e sem as devidas tratativas e pode não funcionar corretamente</h2>
+    
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="video">Vídeo:</label>
+        <input type="file" id="video" name="video"><br><br>
+        
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name"><br><br>
+        
+        <label for="literature_style">Estilo de Literatura:</label>
+        <input type="text" id="literature_style" name="literature_style"><br><br>
+        
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

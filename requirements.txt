@@ -1,0 +1,7 @@
+flask
+google-generativeai
+moviepy
+python-docx 
+markdown
+docx
+beautifulsoup4
