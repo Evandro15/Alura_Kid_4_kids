@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo incentivar a contação de histórias para crianças, permitindo que elas gravem vídeos de suas próprias histórias, que serão aprimoradas e publicadas. Além disso, o projeto inclui a recomendação de livros e a comparação entre a história autoral e obras recomendadas, visando estimular a criatividade e promover o gosto pela leitura.
 
-Link para execução direto do google colab: https://drive.google.com/file/d/1BLhdmbv6p28D6rb18-EIMMj0YakLxMS7/view?usp=sharing/)
+Link para execução direto do google colab: https://drive.google.com/file/d/1BLhdmbv6p28D6rb18-EIMMj0YakLxMS7/view?usp=sharing
 
 ## Tecnologias Utilizadas
 - Google Generative AI (Gemini)
@@ -20,6 +20,10 @@ Neste primeiro momento, o projeto deve ser executado através do Google Colab ou
 3. Utilizando o modelo Gemini da Google, gerará uma resenha sobre a história contada e a enriquecerá de forma simples.
 4. Fará embeddings dos livros na LLM para criar sugestões dos livros que mais se aproximam da história contada.
 5. Entregará um resumo da obra recomendada e gerará um paralelo entre a história autoral e a recomendada, para que a criança entenda as semelhanças.
+
+## Demo
+Link para um vídeo de uma criança contando história: https://drive.google.com/file/d/1hBzLiEbNGiBY5rP56hf2jZOFiHe-dRZM/view?usp=drive_link
+Link para o resultado do processamento: 
 
 ### Próximos Passos
 - Implementar uma API para permitir o upload do arquivo e a geração por meio do site na plataforma Heroku.
