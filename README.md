@@ -31,6 +31,7 @@ Link para o resultado do processamento: https://github.com/Evandro15/Alura_Kid_4
 - Implementar uma API para permitir o upload do arquivo e a geração por meio do site na plataforma Heroku.
 - Adicionar novas funcionalidades, como citar o nome do autor e capturar características da pessoa do vídeo utilizando o modelo Gemini.
 - Oferecer suporte para escolha de geração com base em estilos predefinidos, como romance, gótico, cordel, poesia, entre outros.
+- Aumento da base de conhecimento de livros a serem sugeridos, adicionando mais fontes de resumos de livros ao processo.
 
 Este projeto foi desenvolvido com o modelo Gemini da Google e destina-se ao uso educacional, principalmente para a plataforma Alura. No repositório, estará disponível um vídeo de exemplo e um documento com o resultado do processamento.
 
